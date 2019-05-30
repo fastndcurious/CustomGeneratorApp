@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## More info, check this repo : https://github.com/jordanhudgens/devcamp-portfolio/tree/9061a3606ab4a34e9ab283ed3fd7a7e31ec4e744
